@@ -9,5 +9,5 @@ int main()
     printf("The strlen of b [] is %d\n",strlen(b));
     printf("githubTest100100");
     printf("This is a test");
-    printf("This is a test03");
+    printf("C github test");
 }
