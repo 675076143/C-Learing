@@ -10,4 +10,5 @@ int main()
     printf("githubTest100100");
     printf("This is a test");
     printf("C github test");
+    printf("Test");
 }
