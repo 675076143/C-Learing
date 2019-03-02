@@ -11,4 +11,5 @@ int main()
     printf("This is a test");
     printf("C github test");
     printf("Test");
+    getchar();
 }
