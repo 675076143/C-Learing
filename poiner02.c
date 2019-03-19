@@ -3,8 +3,9 @@
 void minmax(int a[], int len, int *min, int *max);
 
 void main()
-{
+{   
     int a[] = {1,2,3,4,5,6,};
+    
     int min,max;
     min=5;
     max=6;
@@ -39,8 +40,8 @@ void main()
     printf("*(pChine+3)=%d\n",*(pChine+3));
     
     printf("sizeof(chine)=%d\n",sizeof(chine));
-    printf("");
-    getchar();    
+    printf("\n\n");
+   
     
 }
 

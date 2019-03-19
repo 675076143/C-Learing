@@ -28,5 +28,9 @@ int in(char s[], char str[])
 void main()
 {
     printf("result:%d\n",in("mny","you are nmy friend"));
+    double f1 = 1.3;
+    double f2 = 1.9;
+    printf("%d",(int)(1.9+1.9));
     getchar();
+    
 }
